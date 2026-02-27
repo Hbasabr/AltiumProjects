@@ -1,0 +1,377 @@
+*************************************************************
+FileName = PCB1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PCB1_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB1_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB1_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB1_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB1_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D20
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB1_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB1_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D17
+    D21
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB1_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB1_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB1_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB1_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : PCB1_Top_Component_Center.gbr
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : PCB1_Top_Designator.gbr
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : PCB1_Bottom_Designator.gbr
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : PCB1_Top_Assembly.gbr
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : PCB1_Top_Component_Outline.gbr
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : PCB1_Bottom_Component_Outline.gbr
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB1_Top_3D_Body.gbr
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D24
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : PCB1_Bottom_3D_Body.gbr
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB1_Top_Courtyard.gbr
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D24
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : PCB1_Bottom_Courtyard.gbr
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : PCB1_Bottom_Assembly.gbr
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : PCB1_Bottom_Component_Center.gbr
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB1_Profile.gbr
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : PCB1_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : PCB1_PTH_Drill.gbr
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB1_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB1_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D34
+*************************************************************
+
